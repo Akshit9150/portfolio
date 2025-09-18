@@ -5,10 +5,10 @@ const Education = () => {
   const education = [
     {
       degree: "Bachelor of Science in Computer Science",
-      university: "State University",
-      location: "New York, NY",
-      period: "2020 - 2024",
-      gpa: "3.8/4.0",
+      university: "Vellore Institute of Techology",
+      location: "Amaravati, Andhra Pradesh",
+      period: "2022 - 2026",
+      gpa: "7.47/10.0",
       status: "Expected Graduation",
       coursework: [
         "Data Structures & Algorithms",
@@ -18,17 +18,17 @@ const Education = () => {
       ]
     },
     {
-      degree: "Associate Degree in Information Technology",
-      university: "Community College",
-      location: "New York, NY",
-      period: "2018 - 2020",
+      degree: "Central Board of Secondary Education",
+      university: "Delhi Public School",
+      location: "Bengaluru",
+      period: "2020 - 2022",
       gpa: "3.9/4.0",
       status: "Completed",
       coursework: [
-        "Programming Fundamentals",
-        "Network Security",
-        "Systems Analysis",
-        "Project Management"
+        "Computer Science",
+        "Physics",
+        "Chemistry",
+        "Mathematics"
       ]
     }
   ];
