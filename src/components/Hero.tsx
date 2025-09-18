@@ -26,10 +26,14 @@ const Hero = () => {
         </div>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-2">
+          <a 
+            href="/resume.pdf" 
+            download="Akshit_Verma_Resume.pdf"
+            className="bg-yellow-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-2"
+          >
             <Download size={20} />
             Download Resume
-          </button>
+          </a>
           <button className="border-2 border-yellow-600 text-yellow-600 px-8 py-4 rounded-full font-semibold hover:bg-yellow-600 hover:text-white transform hover:scale-105 transition-all duration-300">
             View My Work
           </button>

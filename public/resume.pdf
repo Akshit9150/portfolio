@@ -1,0 +1,179 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(AKSHIT VERMA) Tj
+0 -30 Td
+/F2 12 Tf
+(Up and Coming Software Developer) Tj
+0 -20 Td
+(Email: vermaakshit@outlook.com) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/akshitverma9150) Tj
+0 -15 Td
+(GitHub: github.com/Akshit9150) Tj
+0 -15 Td
+(LeetCode: leetcode.com/u/Akshit9150) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F2 12 Tf
+(Bachelor of Science in Computer Science) Tj
+0 -15 Td
+(Vellore Institute of Technology, Amaravati) Tj
+0 -15 Td
+(2022 - 2026 | GPA: 7.47/10.0) Tj
+
+0 -15 Td
+(Central Board of Secondary Education) Tj
+0 -15 Td
+(Delhi Public School, Bengaluru) Tj
+0 -15 Td
+(2020 - 2022 | GPA: 3.9/4.0) Tj
+
+0 -40 Td
+/F1 16 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F2 12 Tf
+(AI Timetable Generator) Tj
+0 -15 Td
+(• Full-stack application with React, Node.js, MongoDB) Tj
+0 -15 Td
+(• Automated scheduling with AI algorithms) Tj
+
+0 -20 Td
+(Sudoku Solver) Tj
+0 -15 Td
+(• Interactive puzzle solver with backtracking algorithm) Tj
+0 -15 Td
+(• Built with JavaScript and modern web technologies) Tj
+
+0 -20 Td
+(TO DO App with User Authentication) Tj
+0 -15 Td
+(• Full-stack task management application) Tj
+0 -15 Td
+(• User authentication and data persistence) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F2 12 Tf
+(Software Engineer Intern - TechCorp Simulation) Tj
+0 -15 Td
+(Jun 2023 - Aug 2023 | Remote) Tj
+0 -15 Td
+(• Built responsive web applications using React and Node.js) Tj
+0 -15 Td
+(• Participated in agile development practices) Tj
+
+0 -20 Td
+(Full Stack Developer - Forage Virtual Experience) Tj
+0 -15 Td
+(Mar 2023 - May 2023 | Virtual) Tj
+0 -15 Td
+(• Developed RESTful APIs using Express.js and MongoDB) Tj
+0 -15 Td
+(• Implemented user authentication and authorization) Tj
+
+0 -40 Td
+/F1 16 Tf
+(CERTIFICATIONS) Tj
+0 -25 Td
+/F2 12 Tf
+(• FullStack with MERN - Blackbucks (May 2025)) Tj
+0 -15 Td
+(• Problem Solvers - FACE Prep (June 2025)) Tj
+0 -15 Td
+(• Oracle Cloud Generative AI - Oracle (July 2025)) Tj
+0 -15 Td
+(• NEO4J Professional - Graph Academy (July 2025)) Tj
+
+0 -40 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -25 Td
+/F2 12 Tf
+(Languages: JavaScript, Python, Java, C++) Tj
+0 -15 Td
+(Frontend: React, HTML5, CSS3, Tailwind CSS) Tj
+0 -15 Td
+(Backend: Node.js, Express.js, MongoDB) Tj
+0 -15 Td
+(Tools: Git, VS Code, Postman) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003126 00000 n 
+0000003193 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3256
+%%EOF

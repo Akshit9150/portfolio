@@ -67,10 +67,14 @@ const Contact = () => {
           <div className="bg-white rounded-2xl p-8 shadow-lg inline-block border-2 border-yellow-600 hover-cursor">
             <h3 className="text-2xl font-bold text-black mb-4">Ready to Download My Resume?</h3>
             <p className="text-gray-600 mb-6">Get a comprehensive overview of my skills, experience, and projects.</p>
-            <button className="bg-yellow-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-3 mx-auto">
+            <a 
+              href="/resume.pdf" 
+              download="Akshit_Verma_Resume.pdf"
+              className="bg-yellow-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-3 mx-auto"
+            >
               <Download size={20} />
               Download Resume PDF
-            </button>
+            </a>
           </div>
         </div>
       </div>
