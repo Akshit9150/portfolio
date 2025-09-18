@@ -4,27 +4,27 @@ import { Award, Calendar } from 'lucide-react';
 const Certificates = () => {
   const certificates = [
     {
-      title: "JavaScript Algorithms and Data Structures",
-      issuer: "FreeCodeCamp",
-      date: "December 2023",
+      title: "FullStack with MERN",
+      issuer: "Blackbucks",
+      date: "May 2025",
       logo: "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=100"
     },
     {
-      title: "React - The Complete Guide",
-      issuer: "Udemy",
-      date: "November 2023",
+      title: "Problem Solvers",
+      issuer: "FACE Prep",
+      date: "June 2025",
       logo: "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=100"
     },
     {
-      title: "AWS Cloud Practitioner",
-      issuer: "Amazon Web Services",
-      date: "October 2023",
+      title: "Oracle Cloud Generative AI",
+      issuer: "Oracle",
+      date: "July 2025",
       logo: "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=100"
     },
     {
-      title: "Professional Web Development",
-      issuer: "LinkedIn Learning",
-      date: "September 2023",
+      title: "NEO4J Professional",
+      issuer: "Graph Academy",
+      date: "July 2025",
       logo: "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=100"
     }
   ];
