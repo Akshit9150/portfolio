@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hide default cursor globally */
+* {
+  cursor: none !important;
+}
+
+/* Ensure custom cursor stays on top */
+.custom-cursor {
+  pointer-events: none;
+  z-index: 9999;
+}
