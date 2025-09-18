@@ -5,29 +5,29 @@ const Contact = () => {
   const contacts = [
     {
       name: "Email",
-      value: "john.smith@email.com",
-      href: "mailto:john.smith@email.com",
+      value: "vermaakshit@outlook.com",
+      href: "mailto:vermaakshit@outlook.com",
       icon: Mail,
       color: "hover:text-blue-600 hover:bg-blue-50"
     },
     {
       name: "LinkedIn",
-      value: "linkedin.com/in/johnsmith",
-      href: "https://linkedin.com/in/johnsmith",
+      value: "linkedin.com/in/akshitverma9150",
+      href: "https://www.linkedin.com/in/akshitverma9150/",
       icon: Linkedin,
       color: "hover:text-blue-700 hover:bg-blue-50"
     },
     {
       name: "GitHub",
-      value: "github.com/johnsmith",
-      href: "https://github.com/johnsmith",
+      value: "github.com/Akshit9150",
+      href: "https://github.com/Akshit9150",
       icon: Github,
       color: "hover:text-gray-800 hover:bg-gray-50"
     },
     {
       name: "LeetCode",
-      value: "leetcode.com/johnsmith",
-      href: "https://leetcode.com/johnsmith",
+      value: "leetcode.com/Akshit9150",
+      href: "https://leetcode.com/u/Akshit9150/",
       icon: Code,
       color: "hover:text-orange-600 hover:bg-orange-50"
     }
