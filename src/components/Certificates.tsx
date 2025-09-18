@@ -30,7 +30,7 @@ const Certificates = () => {
   ];
 
   return (
-    <section id="certificates" className="py-20 bg-amber-50">
+    <section id="certificates" className="py-20 bg-amber-50 pattern-hexagon">
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-black mb-4">

@@ -3,7 +3,7 @@ import { Download, ChevronDown } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section id="hero" className="min-h-screen bg-amber-50 flex items-center justify-center relative">
+    <section id="hero" className="min-h-screen bg-amber-50 pattern-grid flex items-center justify-center relative">
       <div className="max-w-6xl mx-auto px-6 py-20 text-center">
         <div className="mb-8">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-br from-gray-100 to-gray-200 border-4 border-yellow-600 overflow-hidden shadow-2xl transform hover:scale-105 transition-all duration-300">

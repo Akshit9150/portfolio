@@ -34,7 +34,7 @@ const Education = () => {
   ];
 
   return (
-    <section id="education" className="py-20 bg-amber-50">
+    <section id="education" className="py-20 bg-amber-50 pattern-dots">
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-black mb-4">

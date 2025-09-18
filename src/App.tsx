@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="min-h-screen bg-amber-50 cursor-none">
+    <div className="min-h-screen bg-amber-50 pattern-dots cursor-none">
       <CustomCursor />
       <Navigation />
       <Hero />
