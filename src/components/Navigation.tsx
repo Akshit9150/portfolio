@@ -50,7 +50,7 @@ const Navigation = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           <div className="font-bold text-xl text-black">
-            John<span className="text-yellow-600">Smith</span>
+            Akshit<span className="text-yellow-600">Verma</span>
           </div>
 
           {/* Desktop Navigation */}
