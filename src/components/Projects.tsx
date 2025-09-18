@@ -4,7 +4,7 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "AI Timetable Generator",
       description: "A full-stack e-commerce solution with user authentication, payment integration, and admin dashboard.",
       techStack: ["React", "Node.js", "MongoDB", "Stripe"],
       github: "#",
@@ -12,7 +12,7 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
-      title: "Task Management App",
+      title: "Sudoku Solver",
       description: "Collaborative project management tool with real-time updates and team collaboration features.",
       techStack: ["Vue.js", "Firebase", "Tailwind CSS"],
       github: "#",
@@ -20,7 +20,7 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
-      title: "Weather Dashboard",
+      title: "TO DO App with user authentication",
       description: "Interactive weather application with location-based forecasts and beautiful data visualizations.",
       techStack: ["JavaScript", "API Integration", "Chart.js"],
       github: "#",
