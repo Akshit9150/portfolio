@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="mb-8">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-br from-gray-100 to-gray-200 border-4 border-yellow-600 overflow-hidden shadow-2xl transform hover:scale-105 transition-all duration-300">
             <img 
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400" 
+              src="https://drive.google.com/file/d/1ngk2I9qls0_n846T9RQ-w-KKHvPPoFVY/view?usp=sharing" 
               alt="Professional headshot" 
               className="w-full h-full object-cover"
             />
