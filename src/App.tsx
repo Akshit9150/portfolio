@@ -23,7 +23,7 @@ function App() {
       <footer className="bg-black text-white py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <p className="text-gray-400">
-            © 2024 John Smith. Designed with <span className="text-yellow-600">❤</span> and built with React.
+            © 2025 Akshit Verma. Designed with <span className="text-yellow-600">❤</span> and built with React.
           </p>
         </div>
       </footer>
